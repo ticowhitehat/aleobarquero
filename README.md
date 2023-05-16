@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aleobarquero
+- 👋 Hi, I’m @ticowhitehat
 - 👀 I’m interested in TICs
 - 🌱 I’m currently learning TICs
 - 💞️ I’m looking to collaborate on TICs
